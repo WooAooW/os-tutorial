@@ -13,7 +13,7 @@
 
 2.可以调用 BIOS 的函数进行输出，直观看到引导程序的运行。
 
-3.编写引导程序的汇编文件 (boot.asm)[./boot.asm]
+3.编写引导程序的汇编文件 (boot.asm)[https://github.com/greenfit/os-tutorial/blob/master/02%20-%20%E5%BC%95%E5%AF%BC%E7%A8%8B%E5%BA%8F/boot.asm]
 
 4.使用 nasm 进行编译 `nasm boot.asm -o boot.img`
 
